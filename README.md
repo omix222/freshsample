@@ -26,7 +26,7 @@ http://localhost:8000/hohohoge
 - About
 http://localhost:8000/about
 
-- Data fetch
+- Fetching data
 http://localhost:8000/github/omix222
 
 - Search
